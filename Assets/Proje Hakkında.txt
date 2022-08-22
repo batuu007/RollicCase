@@ -1,0 +1,10 @@
+
+Level Manager , ustunden olusturdugumuz levelarý gorebýlýyoruz ekleyýp cýkarabýlýyoruz yerlerýný degýstýrebýlýyoruz.
+
+Level canvas controller , oyunumuzdaký level completed ve level failed objelerýný tutup onlarý acma kapama ve next level ile level failedda ne yapýcagýmýzý gosterýyoruz
+
+Game controller , burda start olarak touchtoStart canvasýný tutup playerýmýzýn hareketýný olup olmýcagýný tutuyoruz. burada level progressýmýzýn nasýl calýsýcagýný tutuyoruz
+
+Object spawner , levellarýn ýcerýsýnde object spawner bulunmakta bu objelerýn ýcerýsýnden hangý objeyý kac tane ve hangý pozýsyonlarda spawn etmek ýstedýgýmýzý degýstýrebýlýyoruz
+
+Counterlar , level ýcerýsýnde counter adlý objelerýn ýcerýsýnden kac tane almasý gerektýgýný ve bunun kontrollerýný saglýyoruz
